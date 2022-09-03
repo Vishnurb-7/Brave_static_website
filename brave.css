@@ -1,0 +1,199 @@
+.header{
+    width: 100%;
+}
+.header-1{
+    margin-left: 26%;
+    margin-right: 26%;
+    display: flex;
+}
+.logo{
+    margin-top: 30px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    width: 430px;
+    margin-top: 60px;
+    font-size: 36px;
+    font-family: Arial;
+}.para1{
+    font-size: 16px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 9px;
+    color: black;
+    text-align: center;
+}
+.btn{
+    background-color: rgb(247, 82, 41);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-left: 70px;
+    margin-top: 20px;
+    transition: opacity 0.15s;
+    margin-bottom: 130px;
+    cursor: pointer;
+    
+}
+.btn:hover{
+    opacity: 0.5;
+}
+.header-3{
+    margin-top: 141px;
+}
+.content{
+    width: 100%;
+    background-color: rgb(37, 37, 161);
+}
+.content-body{
+    margin-left: 26%;
+    margin-right: 26%;
+    display: flex;
+  
+}
+.para2{
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+    margin-top: 50px;
+    
+}
+.content-body2{
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+.para3{
+    text-align: center;
+    width: 300px;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    margin-top: 30px;
+   
+   
+}
+.content-2{
+    width: 100%;
+    background-color: white;
+}
+.content2-main{
+    margin-left: 26%;
+    margin-right: 26%;
+   
+}
+.content2main-sub1{
+    display: flex;
+    justify-content:space-evenly;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.para4{
+    width: 200px;
+    text-align: center;
+    margin-top: 30px;
+}
+.para5{
+    width: 200px;
+    text-align: center;
+    margin-top: 43px;
+}
+.para6{
+    width: 200px;
+    text-align: center;
+    margin-top: 73px;
+}
+.content3{
+    width: 100%;
+    background: #7b4397;  
+    background: linear-gradient(to right, #dc2430, #7b4397); 
+
+
+}
+.content3-main{
+    margin-left: 26%;
+    margin-right: 26%;
+    padding-top: 30px;
+    
+    
+
+}
+.para7{
+    width: 700px;
+    padding-left: 40px;
+    padding-top: 30px;
+    font-size: 30px;
+    color: white;
+    font-weight: 500;
+    line-height: 40px;
+    padding-bottom: 40px;
+}
+.cnet{
+    padding-left: 80%;
+}
+.footer{
+    width: 100%;
+    background-color: rgb(27, 23, 23);
+}
+.footer-main{
+    margin-left: 26%;
+    margin-right: 26%; 
+}
+.footer-sub2{
+    display: flex;
+}
+.brave{
+    width: 100px;
+    margin-top: 25px;
+    margin-left: 33px;
+}
+.para8{
+    width: 330px;
+    color: white;
+    margin-top: 20px;
+    font-size: 12px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+.para9{
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    margin-top: 21px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    width: 100px;
+}
+.para10{
+    font-size: 12px;
+    margin-top: 21px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    color: white;
+}
+.para11{
+    font-size: 12px; 
+    color: white;
+    margin-left: 50px;
+    font-weight: bold;
+    margin-top: 20px;
+    width: 140px;
+}
+.para12{
+    font-size: 12px; 
+    color: white;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.addd{
+    margin-left: 5% ;
+    margin-bottom: 70px;
+}
